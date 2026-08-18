@@ -155,24 +155,7 @@ https://github.com/palakv07/Frontend-Assignments
 
 ---
 
-#  GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palakv07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakv07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=palakv07&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 My GitHub Contribution Snake
+#  My GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/palakv07/palakv07/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
