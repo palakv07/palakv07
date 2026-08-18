@@ -53,9 +53,9 @@ JavaScript and React.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palakv07&show_icons=true&theme=tokyonight)
 
-##  Contribution Snake
+##  My GitHub Activity
 
-![Snake animation](https://raw.githubusercontent.com/palakv07/palakv07/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/palakv07/palakv07/gh-pages/github-contribution-grid-snake.svg)
 
 ##  Connect With Me
 
