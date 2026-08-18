@@ -4,21 +4,6 @@
   <b>Computer Science Engineering Student • Software Developer • Problem Solver</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/palakv07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/palakv_07/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Building projects • Solving DSA • Learning every day</i>
-</p>
-
----
-
 ##  About Me
 
 I'm a **BE Computer Science Engineering student** passionate about software development, problem solving and building practical applications.
