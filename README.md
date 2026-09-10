@@ -1,203 +1,168 @@
-<div align="center">
+#  Hi, I'm Palak Verma
 
-<table>
-<tr>
+<p align="center">
+  <b>Computer Science Engineering Student • Software Developer • Problem Solver</b>
+</p>
 
-<!-- LEFT SIDE — INTRO -->
-<td width="60%" align="left">
+##  About Me
 
-# Hi, I'm Palak Verma 👋
+I'm a **BE Computer Science Engineering student** passionate about software development, problem solving and building practical applications.
 
-### Computer Science Student • Software Developer • AI Builder
+I enjoy turning ideas into working projects while continuously improving my **DSA, Java, frontend development and backend development** skills.
 
-I'm a Computer Science student focused on building practical software
-with **Java, DSA, Full-Stack Development and AI**.
+*  BE CSE Student
+*  Focused on **Java & Data Structures and Algorithms**
+*  Interested in **Full Stack Development**
+*  Exploring **AI/ML and AI-powered applications**
+*  Regularly practicing problems on **LeetCode**
+*  Building projects to strengthen my development skills
+*  Currently learning and improving every day
 
-I enjoy turning ideas into working products — from **AI-powered
-applications and agentic systems to full-stack web projects**.
+---
 
-Currently strengthening my foundations in:
+#  Tech Stack
 
-- ☕ Java & Data Structures / Algorithms
-- ⚛️ React & modern frontend development
-- 🐍 Python & backend development
-- 🤖 AI / LLM applications & agents
-- 🔌 APIs, integrations & automation
-- 🚀 Building and deploying real-world projects
+##  Languages
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-<a href="https://github.com/palakv07">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/palakv_07/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+##  Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+##  Backend & Database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
+
+##  AI / ML
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge"/>
+</p>
+
+##  Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+#  Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Advanced_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Backend_Development-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-4B5563?style=for-the-badge"/>
+</p>
+
+---
+
+#  Featured Projects
+
+##  AI StudyMate
+
+An AI-powered **LeetCode study assistant** designed to make coding practice more structured and personalized.
+
+### What it does
+
+*  Tracks solved LeetCode problems
+*  Analyzes weak DSA topics
+*  Uses AI to recommend problems
+*  Helps schedule coding sessions
+*  Integrates with productivity tools
+*  Provides insights into coding progress
+
+### Built With
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coral_SQL-4B5563?style=flat-square"/>
+</p>
+
+🔗 **Repository:**
+https://github.com/palakv07/StudyMate
+
+---
+
+##  Frontend Assignments
+
+A collection of frontend development projects created while learning and practicing modern web development.
+
+### Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
+
+🔗 **Repository:**
+https://github.com/palakv07/Frontend-Assignments
+
+---
+
+### Coding Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/palakv_07/">
+    <img src="https://img.shields.io/badge/LeetCode-palakv__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+#  My GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/palakv07/palakv07/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+<p align="center">
+  <i>Every green square represents another step forward </i>
+</p>
+
+---
+
+
+# 📫 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/palak-verma-72b2592a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</td>
-
-<!-- RIGHT SIDE — ANIMATED OCTOCAT -->
-<td width="40%" align="center">
-
-<img src="./assests/octocat-animated.gif" width="330"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ Oxotradex — Autonomous Options Alpha Agent
-
-An AI-assisted trading system designed around **defined-risk options
-strategies and deterministic risk controls**.
-
-- AI tactical reasoning combined with deterministic Python risk gates
-- Bull Put Spreads, Bear Call Spreads and Iron Condors
-- EMA, RSI and historical volatility based market signals
-- 8 deterministic risk gates before execution
-- Alpaca API / MCP integration
-- Automated take-profit, stop-loss and expiry management
-- SQLite audit trail and real-time Streamlit dashboard
-
-**Stack:** `Python` `Streamlit` `Alpaca API` `MCP` `SQLite` `LLM APIs`
-
-[🔗 Repository](https://github.com/palakv07/Oxotradex) •
-[🌐 Live Demo](https://oxotradex001.streamlit.app/) •
-[🎥 Demo](https://youtu.be/Vv3jh-mjDyI)
-
----
-
-### 🧠 StudyMate — AI LeetCode Study Assistant
-
-A Windows-based AI study assistant that turns LeetCode progress into
-personalized study recommendations.
-
-- Tracks solved problems and DSA progress
-- Identifies weak topics using analytics
-- Gemini-powered problem recommendations
-- Coral SQL based data analysis
-- Google Sheets and Notion synchronization
-- Google Calendar study-session scheduling
-- React/Vite frontend with FastAPI backend
-
-**Stack:** `React` `Vite` `Tailwind CSS` `FastAPI` `Python` `Gemini` `Google APIs`
-
-[🔗 Repository](https://github.com/palakv07/StudyMate) •
-[🎥 Demo](https://youtu.be/lRFkDgFjvaU)
-
----
-
-### 🥗 CarbsFit — AI Fitness & Indian Meal Companion
-
-A gamified fitness application combining **AI meal analysis,
-personalized coaching and workout generation**.
-
-- AI-powered Indian meal image analysis
-- Calorie and macronutrient estimation
-- Personalized workout generation
-- AI fitness coach
-- Quests, XP, streaks and badges
-- Supabase authentication and persistent data
-- Responsive modern UI
-
-**Stack:** `React` `TypeScript` `TanStack Start` `Tailwind CSS` `Supabase` `Vite`
-
-[🔗 Repository](https://github.com/palakv07/carbsfit) •
-[🌐 Live Demo](https://carbsfit.vercel.app/)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-`Java` `Python` `JavaScript` `TypeScript` `SQL`
-
-### Frontend
-
-`React` `Vite` `Tailwind CSS` `HTML` `CSS`
-
-### Backend & APIs
-
-`FastAPI` `Node.js` `REST APIs` `Google APIs` `Supabase`
-
-### AI & Data
-
-`Gemini` `LLM APIs` `Coral SQL` `AI Agents`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Streamlit` `Postman`
-
----
-
-## 📚 Problem Solving
-
-I use problem solving to strengthen my programming fundamentals and
-prepare for software engineering interviews.
-
-**Currently focusing on:**
-
-`Arrays` → `Hashing` → `Two Pointers` → `Sliding Window` →  
-`Binary Search` → `Stacks & Queues` → `Trees` → `Graphs` → `DP`
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/palakv_07/)
-
----
-
-## 🎯 Currently Focused On
-
-- Improving **DSA and competitive programming**
-- Deepening **Java & OOP**
-- Building better **React + backend applications**
-- Exploring **AI agents and LLM-powered applications**
-- Writing cleaner and more maintainable code
-- Building projects that solve real problems
-
----
-
-## 🌱 Beyond Code
-
-- 🚀 Building and shipping real-world projects
-- 🤖 Exploring agentic AI systems
-- 🧩 Solving algorithmic problems
-- 🏗️ Learning software architecture through projects
-- 🏆 Participating in hackathons and open-source projects
-- 💼 Looking for opportunities to grow as a software engineer
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/palakv07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://leetcode.com/u/palakv_07/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/in/palak-verma-72b2592a4/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Building ideas into software, one project at a time. 🚀
-
-</div>
+</p>
