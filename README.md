@@ -1,4 +1,5 @@
 #  Hi, I'm Palak Verma
+<img src="./assets/octocat-animated.gif" width="300"/>
 
 <p align="center">
   <b>Computer Science Engineering Student • Software Developer • Problem Solver</b>
