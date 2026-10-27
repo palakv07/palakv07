@@ -139,6 +139,15 @@ https://github.com/palakv07/Frontend-Assignments
 </p>
 
 ---
+### Portfolio
+
+<p align="center">
+  <a href="https://portfolio-two-mu-68.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+  </a>
+</p>
+
+---
 
 #  My GitHub Contribution Snake
 
