@@ -10,14 +10,6 @@ I'm a **BE Computer Science Engineering student** passionate about software deve
 
 I enjoy turning ideas into working projects while continuously improving my **DSA, Java, frontend development and backend development** skills.
 
-*  BE CSE Student
-*  Focused on **Java & Data Structures and Algorithms**
-*  Interested in **Full Stack Development**
-*  Exploring **AI/ML and AI-powered applications**
-*  Regularly practicing problems on **LeetCode**
-*  Building projects to strengthen my development skills
-*  Currently learning and improving every day
-
 ---
 
 #  Tech Stack
